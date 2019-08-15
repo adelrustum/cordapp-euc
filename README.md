@@ -1,7 +1,7 @@
 # End User Certificates
 
 This CorDapp is built on top of the Kotlin template that is provided by **Corda** team.  
-You can find the full article about the purpose of this application here:
+You can find the full article about the purpose of this application here: https://blog.b9lab.com/small-arms-transfer-control-with-blockchain-r3s-corda-6e2fce9d80c4
 
 # Pre-Requisites
 
